@@ -32,4 +32,4 @@
 
 ## 프로그램 구조
 
-<img src="./hy_diagram.png" width="600">
+![번역기 다이어그램](./hy_diagram.png)
