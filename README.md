@@ -27,3 +27,9 @@
 
 - **UI**: CustomTkinter  
   https://customtkinter.tomschimansky.com
+
+---
+
+## 프로그램 구조
+
+<img src="./hy_diagram.png" width="600">
